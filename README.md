@@ -1,7 +1,7 @@
 
 # Fingerprint-Attendance-System-using-Arduino
 > Fingerprint Identification Attendance which makes the operation to take Attendance more Efficiently and Easy with more facilities and capabilities to   reduce time and effort.
->- Video demo[_here_](https://drive.google.com/file/d/1Wbvw0TtGEdZgbxn5oISodfuctqltmfi1/view?usp=share_link).
+>- Video demo [_here_](https://drive.google.com/file/d/1Wbvw0TtGEdZgbxn5oISodfuctqltmfi1/view?usp=share_link).
 
 ## Table of Contents
 * [General Info](#general-information)
